@@ -16,9 +16,9 @@ body {
 
 .contract,
 .existing-contracts {
-  margin: 20px;
+  margin: 21px;
   display: inline-block;
-  padding: 40px;
+  padding: 41px;
   border: 1px solid #ddd;
   background-color: #fff;
 }
@@ -34,7 +34,7 @@ label {
   flex-direction: column;
   text-transform: uppercase;
   color: #aaa;
-  margin: 20px;
+  margin: 21px;
 }
 
 input[type="text"] {
@@ -64,7 +64,7 @@ input[type="text"] {
 .existing-contract ul>li {
   list-style: none;
   display: flex;
-  margin: 10px;
+  margin: 11px;
 }
 
 .existing-contract ul>li>div {
